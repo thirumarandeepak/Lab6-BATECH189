@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fef9f4;
+  text-align: center;
+  padding: 2rem;
+}
+
+.burger {
+  margin: 20px auto;
+  width: 200px;
+}
+
+div {
+  margin: 2px auto;
+}

@@ -1,0 +1,60 @@
+.bun-top {
+  width: 200px;
+  height: 50px;
+  background: #f5a623;
+  border-radius: 100px 100px 30px 30px;
+}
+
+.bun-bottom {
+  width: 200px;
+  height: 30px;
+  background: #d48806;
+  border-radius: 20px;
+}
+
+.lettuce {
+  width: 180px;
+  height: 20px;
+  background: #4caf50;
+  border-radius: 10px;
+}
+
+.tomato {
+  width: 170px;
+  height: 20px;
+  background: #ff6347;
+  border-radius: 10px;
+}
+
+.cheese {
+  width: 180px;
+  height: 15px;
+  background: #ffd700;
+  border-radius: 5px;
+}
+
+.patty {
+  width: 180px;
+  height: 25px;
+  background: #8b4513;
+  border-radius: 10px;
+}
+
+.veggie-patty {
+  width: 180px;
+  height: 25px;
+  background: #5d8c5d;
+  border-radius: 10px;
+}
+
+.avocado {
+  width: 160px;
+  height: 20px;
+  background: #a2d5a2;
+  border-radius: 10px;
+}
+
+.bun-top.veggie,
+.bun-bottom.veggie {
+  background: #deb887;
+}
